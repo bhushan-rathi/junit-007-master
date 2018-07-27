@@ -22,7 +22,7 @@ public class CaseConverterTest {
 	
 	@Test
 	public void testConvertCase3() {
-		assertEquals(c1.convertCase(""), "Hi");//should fail as part of jenkins build fail demo
+		assertEquals(c1.convertCase(""), "");
 	}
 
 	
